@@ -1,0 +1,24 @@
+_repo: Jorden-och-solsystemet-Nagra-blad-ur-historien-om-vetenskapens-strider_53146
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brohlin, Karl
+    gutenberg_agent_id: '47239'
+    url: http://www.gutenberg.org/2009/agents/47239
+description: ''
+gutenberg_issued: '2016-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53146'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Astronomy -- History'
+- !lcc 'QB'
+- GITenberg
+title: 'Jorden och solsystemet
+
+  Några blad ur historien om vetenskapens strider'
+url: http://www.gutenberg.org/ebooks/53146
